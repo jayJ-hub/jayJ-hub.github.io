@@ -3,5 +3,5 @@ layout: post
 title:  "mic test one two"
 ---
 
-#오늘 처음 테스해봅니다
+#오늘 처음 테스트해봅니다
 앞으로 열심히 해보겠습니다.
